@@ -1,5 +1,5 @@
 {
-  "comment": "# xray-diffraction 1.0.0-dev.0 Sun May 24 2020 16:14:04 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# xray-diffraction 1.0.0-dev.0 Tue Jun 16 2020 12:42:31 GMT-0400 (Eastern Daylight Time)",
   "assert": {
     "sha": "0b7a48c6b9ba48af48ae7419bd30c280c785f2cc",
     "branch": "master"
@@ -73,7 +73,7 @@
     "branch": "master"
   },
   "xray-diffraction": {
-    "sha": "6b7deaa062d941f16d76b90946a0f2ddb9dcd66f",
+    "sha": "129f446ce8d1f309af09a75f2e610ddf46b7b1d7",
     "branch": "master"
   }
 }
